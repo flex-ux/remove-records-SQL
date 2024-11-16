@@ -19,7 +19,7 @@ This repository demonstrates how to delete records from an SQLite database table
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/flex-ux/remove-records-SQL/tree/main>
    ```
 2. Navigate to the project directory:
    ```bash
